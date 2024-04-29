@@ -6,6 +6,6 @@ HI,I'M PAARICHANDIRAN
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+<img height="50" width="50" src="<a target="_blank" href="https://icons8.com/icon/13679/java">Java</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>" /> 
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
