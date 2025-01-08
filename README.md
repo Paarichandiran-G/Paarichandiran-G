@@ -1,6 +1,7 @@
 👋 Hi, I'm Parichandran.
 
-I am a dedicated and hardworking individual with a passion for continuous learning and innovation. I thrive on embracing challenges and contributing to projects that drive growth, both personally and professionally. With a focus on full-stack development, I am committed to enhancing my skills and staying at the forefront of emerging technologies.
+I am a dedicated and hardworking person, passionate about learning, embracing challenges, and
+contributing to innovative projects, with a strong commitment to personal and professional growth.
 
 🔧 Technologies I work with:
 - Java
