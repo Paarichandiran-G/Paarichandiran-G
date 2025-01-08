@@ -1,4 +1,4 @@
-👋 Hi, I'm Parichandran.
+👋 Hi, I'm Paarichandiran.
 
 I am a dedicated and hardworking person, passionate about learning, embracing challenges, and
 contributing to innovative projects, with a strong commitment to personal and professional growth.
@@ -12,7 +12,7 @@ contributing to innovative projects, with a strong commitment to personal and pr
 - Latest software development trends
 - Advanced problem-solving techniques
 
-📫 Feel free to reach out: [paarichandiran45@gmail.com/9600618846]
+📫 Contact : [paarichandiran45@gmail.com/9600618846]
 
 
 ### I code in
